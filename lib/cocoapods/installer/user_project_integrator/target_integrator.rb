@@ -47,7 +47,7 @@ module Pod
 
         # @return [Integer] the maximum number of input and output paths to use for a script phase
         #
-        MAX_INPUT_OUTPUT_PATHS = 1000
+        MAX_INPUT_OUTPUT_PATHS = 100000
 
         # @return [String] the path to the artifact lists file used in the prepare & embed scripts
         #
